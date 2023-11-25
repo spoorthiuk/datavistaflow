@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: datavistaflow
+Version: 0.0.10
+Summary: An data visualization library to generate dynamic plots
+Home-page: https://github.com/spoorthiuk/datavistaflow
+Author: Spoorthi U K
+Author-email: spoorthiuday27@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# Datavistaflow
+This python package helps us to create and save animated plots
