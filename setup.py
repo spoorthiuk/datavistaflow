@@ -5,7 +5,7 @@ with open("app/README.md", "r") as f:
 
 setup(
     name="datavistaflow",
-    version="0.0.11",
+    version="0.0.13",
     description="An data visualization library to generate dynamic plots",
     package_dir={"": "app"},
     packages=find_packages(where="app"),

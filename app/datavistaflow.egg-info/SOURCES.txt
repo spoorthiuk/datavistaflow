@@ -1,4 +1,5 @@
 LICENSE
+README.md
 setup.py
 app/datavistaflow/__init__.py
 app/datavistaflow.egg-info/PKG-INFO
