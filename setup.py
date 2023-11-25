@@ -1,11 +1,11 @@
 from setuptools import find_packages, setup
 
-with open("app/README.md", "r") as f:
+with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
     name="datavistaflow",
-    version="0.0.15",
+    version="0.0.16",
     description="An data visualization library to generate dynamic plots",
     package_dir={"": "app"},
     packages=find_packages(where="app"),
