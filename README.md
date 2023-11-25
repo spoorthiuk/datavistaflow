@@ -8,18 +8,18 @@ pip install datavistaflow
 ## Usage
 1) Line plot animation
 
-A line graph plotter to create animated graphical visuals.
-Parameters:
-input : list of tuples containing data to be plotted as a line graph. Each tuple represents a line graph. ex: [(x1_data, y1_data), (x1_data, y1_data)]
-plot_style (optional): defines the plot's style. 
-xlim (optional): defines the x axis limit
-ylim (optional): defines the y axis limit
-title (optional): Title of the plot
-xlabel (optional): defines the x axis label
-ylabel (optional): defines the y axis label
-n_frames (optional): total number of frames in the animation
-frame_interval (optional): time interval between two consecutive frames in milli seconds. Default: 100ms
-save (optional): save animation as a GIF
+A line graph plotter to create animated graphical visuals.<br />
+Parameters:<br />
+input : list of tuples containing data to be plotted as a line graph. Each tuple represents a line graph. ex: [(x1_data, y1_data), (x1_data, y1_data)]<br />
+plot_style (optional): defines the plot's style. <br />
+xlim (optional): defines the x axis limit<br />
+ylim (optional): defines the y axis limit<br />
+title (optional): Title of the plot<br />
+xlabel (optional): defines the x axis label<br />
+ylabel (optional): defines the y axis label<br />
+n_frames (optional): total number of frames in the animation<br />
+frame_interval (optional): time interval between two consecutive frames in milli seconds. Default: 100ms<br />
+save (optional): save animation as a GIF<br />
 
 ```python
 from datavistaflow import plot_line_animation
