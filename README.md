@@ -1,6 +1,6 @@
 # Datavistaflow
 [This python package is under development]
-##Installation
+## Installation
 Install by typing the following command in the terminal
 ```python
 pip install datavistaflow
