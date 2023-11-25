@@ -5,7 +5,7 @@ Install by typing the following command in the terminal
 ```python
 pip install datavistaflow
 ```
-##Usage
+## Usage
 1) Line plot animation
 
 A line graph plotter to create animated graphical visuals.
